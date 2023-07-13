@@ -2,8 +2,6 @@ import React from 'react'
 import PostCreate from './PostCreate'
 import PostList from './PostList'
 
-//git
-
 const App = () => {
   return (
     <div className="container">
